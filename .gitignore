@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.cenv1
+
+# Ignore logs
+*.log
+
+# Ignore local settings
+config/local_settings.json
+
+
